@@ -1,5 +1,9 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+## About me
+My name is **Inam Khan**, and I graduated from *Hamdard University*
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
