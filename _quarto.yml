@@ -5,9 +5,16 @@ website:
   title: "Website 2"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    - text: Home
+      href: index.qmd
+    - text: About
+      href: about.qmd
+    - text: Sources
+      menu:
+        - text: Source 1
+          href: source-1.qmd
+        - text: Source 2
+          href: source-2.qmd
 
 format:
   html:
